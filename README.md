@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @christo2001
-- 👀 I’m interested in 'YOU'.
+- 👀 I’m interested in 'PROGRAMMING'.
 - 🌱 I’m currently learning .python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me . christolawrence19@gmail.com.
