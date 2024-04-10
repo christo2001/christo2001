@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Christo Lawrence</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://media.licdn.com/dms/image/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_600_2000/0/1697453573297?e=2147483647&v=beta&t=HkN6gZbpfAZ0k5Xb88iQXfQpbeKR-YHIKCvzI0gbIhM" alt="christo2001" /> </p>
+
 
 - 🌱 I’m currently learning **Rust**
 
