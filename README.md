@@ -1,8 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Christo Lawrence</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/200w.gif?cid=6c09b952l12tuyy0r5enkypjugbq9ah3mab7vx451au1fk1m&ep=v1_gifs_search&rid=200w.gif&ct=g)">
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christo2001&label=Profile%20views&color=0e75b6&style=flat" alt="christo2001" /> </p>
 
 - 🌱 I’m currently learning **Rust**
