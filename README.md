@@ -1,4 +1,4 @@
-
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h3 align="center">Mastering the MERN: Crafting Dynamic Web Experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christo2001&label=Profile%20views&color=0e75b6&style=flat" alt="christo2001" /> </p>
