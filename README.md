@@ -1,4 +1,4 @@
-[![MasterHead]([https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://i.pinimg.com/originals/1e/dd/47/1edd4798851736ee98ac2ae083e9ee82.gif))](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h3 align="center">Mastering the MERN: Crafting Dynamic Web Experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christo2001&label=Profile%20views&color=0e75b6&style=flat" alt="christo2001" /> </p>
